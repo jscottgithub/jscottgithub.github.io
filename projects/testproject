@@ -1,0 +1,20 @@
+---
+layout: project
+type: project
+image: img/micromouse/micromouse-square.jpg
+title: "testproject"
+date: 2024
+published: true
+labels:
+  - GitHub
+summary: "testing creating a new project"
+---
+
+<div class="text-center p-4">
+  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
+  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+</div>
+
+
+In early 2021 the GameStop stock phenomenon threatened to overturn the entire Stock Market, from brokerages to clearing houses. Through a combination of endless locates for short sales and strategic failures-to-deliver, shares are endlessly sold and the price hammered down to erode genuine shareholder value. "Phantom shares" are created and immediately sold to generate instant revenue, and when combined with short-and-distort tactics can artificially generate negative sentimnent in a given stock ticker. Consistent pressure combined with ineffective corporate management has brought down many a classic American company. 
