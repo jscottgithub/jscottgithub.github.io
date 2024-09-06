@@ -26,6 +26,7 @@ While my kneejerk impression for Typescript may be one of mute disappointment in
     return ("feels like "+inHand+": Danger");
     }
     return ("feels like "+inHand+": Extreme Danger");
+}
 ```
 Notably, the preceding snippet of code was nearly identical to the one written on the spot by the teacher who proctored tonight's WOD quiz; only his version started from the top of the scale and went down. Nothing spectacular but worth a pat-on-the-back, no?
 
