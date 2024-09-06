@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image:   height=48px, width=48px, img/pepesilvia.png 
+image:   img/pepesilvia2.png 
 title: "testproject"
 date: 2024
 published: true
