@@ -10,6 +10,7 @@ labels:
   - Meteor
   - MongoDB
   - GitHub
+  - Flag
 summary: "A responsive web application for travel planning that my team developed in ICS 415."
 ---
 

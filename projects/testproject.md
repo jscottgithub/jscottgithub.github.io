@@ -7,6 +7,7 @@ date: 2024
 published: true
 labels:
   - GitHub
+  - Flag3
 summary: "testing creating a new project"
 ---
 

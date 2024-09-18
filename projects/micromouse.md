@@ -9,6 +9,7 @@ labels:
   - Robotics
   - Arduino
   - C++
+  - Flag2
 summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
 ---
 
