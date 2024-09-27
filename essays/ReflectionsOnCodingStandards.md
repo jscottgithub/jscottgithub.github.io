@@ -28,7 +28,7 @@ The magic of how the nature of coding functions natively disregards extended gap
 
 ## How did we get here?
 
-When generations of quality-of-life improvements and program optimizations have set the standard for ease-of-writing, those who have become utterly reliant on autocorrect (Or Clippy, if ya' *OLD*) to write interpersonal communiques have primed themselves to stumble. Whereas previously a student may have trained themself to obsessively comb through their written text for errors, pinky posted above the backspace, today the bulk of corrections are performed autonomously without so much as the need to glance upwards (or even at the screen!). Sure, sometimes disambiguation between potential intended words must be selected between by the user, but as predictive technology improves that figure may slowly inch its way toward 0. 
+When generations of quality-of-life improvements and program optimizations have set the standard for ease-of-writing, those who have become utterly reliant on autocorrect (Or Clippy, if ya' *OLD*) to write interpersonal communiques have primed themselves to stumble. Whereas previously a student may have trained themself to obsessively comb through their written text for errors, pinky posted above the backspace, today the bulk of corrections are performed autonomously without so much as the need to glance upwards (or even at the screen!). Sure, sometimes disambiguation between potential intended words must be selected between by the user, but as predictive technology improves that figure of time spent correcting oneself may slowly inch its way toward 0. 
 
 ## Time to grow. AKA: *Why* we're here.
 
